@@ -1,0 +1,21 @@
+This is the first file for today
+This should last till end
+
+
+
+Azure Devops course start
+--------------------------
+cd -> change directory
+cd .. -> Goto previous directory
+mkdir -> make/create a directory
+mv -> move a file/directory, also works for a renaming a file
+ls -> list of files/directory
+rm -> remove/delete a file/directory
+
+In VI/VIM
+----------
+i -> to insert data into the file
+:wq -> to save the data and quit (write and quite)
+:q -> to quit without saving the changes
+
+Executing c=git commit -a
